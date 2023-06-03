@@ -1,6 +1,6 @@
 <h4 align="center">
     <a href="https://nodecli.com/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=vercel-no-comments">
-        <img src="https://raw.githubusercontent.com/ahmadawais/vercel-no-comments/master/.github/vercel-no-comments-logo.jpg" alt="vercel-no-comments" />
+        <img src="https://raw.githubusercontent.com/ahmadawais/vercel-no-comments/master/.github/logo.jpg" alt="vercel-no-comments" />
     </a>
     <br>
     <br>
