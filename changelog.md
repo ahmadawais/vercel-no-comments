@@ -32,6 +32,18 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
+### RELEASE: [1.0.1](https://github.com/ahmadawais/vercel-no-comments/compare/1.0.0...1.0.1)
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 All black [`53a00a5`](https://github.com/ahmadawais/vercel-no-comments/commit/53a00a5cfa62361d403958f22d43c823e7bdfbda) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: 1.0.0
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
@@ -47,6 +59,7 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 ![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
 > 📖 Docs baby! [`44d47a5`](https://github.com/ahmadawais/vercel-no-comments/commit/44d47a5270583e060dd11a40dc8f967a7ec9cb39) <br>
+> 📖 Changelog [`eed05c8`](https://github.com/ahmadawais/vercel-no-comments/commit/eed05c825459812035ca8d1169d3627f5b5e17a2) <br>
 > 📖 Explain [`5547c08`](https://github.com/ahmadawais/vercel-no-comments/commit/5547c0880307aac894391769139c16ccabcef94e) <br>
 > 📖 Logo [`31bea6c`](https://github.com/ahmadawais/vercel-no-comments/commit/31bea6c3cb2a7c2a8c5f964297b80a948e26fbcb) <br>
 
