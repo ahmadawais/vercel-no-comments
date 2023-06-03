@@ -34,7 +34,7 @@ const git = simpleGit();
 		fs.writeFileSync('vercel.json', JSON.stringify(content, null, 2));
 		console.log('📄 Created vercel.json file');
 		await git.add('vercel.json');
-		await git.commit('📦 NEW: Preventing Comments on GitHub from Vercel');
+		await git.commit('📦 NEW: Prevent comments on GitHub from Vercel');
 		console.log('🎉 Successfully committed vercel.json');
 	} catch (error) {
 		console.error('❌ Error occurred while creating vercel.json:', error);

@@ -4,7 +4,8 @@
 	"version": "0.0.1",
 	"license": "MIT",
 	"bin": {
-		"vercel-no-comments": "index.js"
+		"vercel-no-comments": "index.js",
+		"vercel-shh": "index.js"
 	},
 	"author": {
 		"name": "Ahmad Awais",
