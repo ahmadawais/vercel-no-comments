@@ -1,7 +1,7 @@
 {
 	"name": "vercel-no-comments",
 	"description": "Prevents the Vercel for GitHub integration from adding comments to pull requests and commits",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"license": "MIT",
 	"bin": {
 		"vercel-no-comments": "index.js",
